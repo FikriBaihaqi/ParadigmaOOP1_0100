@@ -8,4 +8,7 @@ private:
 	string nama;
 	float nilai;
 
+public:
+
 };
+
